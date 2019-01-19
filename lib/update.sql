@@ -1,3 +1,3 @@
 UPDATE caracharacter
-SET species = "Martian"
-WHERE id = 8;
+SET species="Martian"
+WHERE id=8;
