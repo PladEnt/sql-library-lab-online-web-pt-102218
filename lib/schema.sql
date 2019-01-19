@@ -31,6 +31,6 @@ CREATE TABLE characters (
   author_id INTEGER
 );
 
-CREATE TABLE
+CREATE TABLE 
 
 
